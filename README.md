@@ -1,1 +1,11 @@
-# Grocery_Store_Management_System
+![Screenshot (97)](https://github.com/user-attachments/assets/7c0b25e0-e43b-4e4c-942b-f3ac82527829)
+This project contains my project work on a grocery store management system done on PHP and MYSQL using XAMPP AND PHPMYADMIN</br>
+
+STEPS TO RUN:-</br>
+
+1.INSTALL XAMPP AND RUN APACHE AND SQL.</br>
+2.COPY THE GROCERY FOLDER TO htdocs in xampp FOLDER</br>
+3.LOAD THE grocery.sql table TO PHPMYADMIN USING IMPORT IN PHPMYADMIN IN LOCAL SERVER.</br>
+4.FIRST PAGE IS SIGNUP.</br>
+5.THREE MODES-ADMIN,EMPLOYEEE,AND CUSTOMER. CUSTOMER CREDENTIAL SIGNUPS ARE GIVEN. FOR EMPLOYEE AND ADMIN MODE SEE CREDENTIAL FROM TABLE IN PHPMYADMIN AND LOGIN. ONLY ADMIN CAN ADD EMPLOYEE AS OF NOW.</br>
+6.ADD EMPLOYEE OR ADMIN MANUALLY IN TABLE admin or emploee.</br>
