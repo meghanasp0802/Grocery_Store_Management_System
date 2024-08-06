@@ -7,6 +7,5 @@ STEPS TO RUN:-</br>
 2.copy the grocery folder to htdocs in xampp folder</br>
 3.load the grocery.sql table to phpmyadmin using import in phpmyadmin in local server.</br>
 4.first page is signup.</br>
-5.three modes-admin,employeee,and customer. customer credential signups are given. for employee    
-and admin mode see credential from table in phpmyadmin and login. only admin can add employee as of now.</br>
+5.three modes-admin,employeee,and customer. customer credential signups are given. for employee and admin mode see credential from table in phpmyadmin and login. only admin can add employee as of now.</br>
 6.add employee or admin manually in table admin or emploee.</br>
