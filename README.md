@@ -3,9 +3,9 @@ This project contains my project work on a grocery store management system done 
 
 STEPS TO RUN:-</br>
 
-1.INSTALL XAMPP AND RUN APACHE AND SQL.</br>
-2.COPY THE GROCERY FOLDER TO htdocs in xampp FOLDER</br>
-3.LOAD THE grocery.sql table TO PHPMYADMIN USING IMPORT IN PHPMYADMIN IN LOCAL SERVER.</br>
-4.FIRST PAGE IS SIGNUP.</br>
-5.THREE MODES-ADMIN,EMPLOYEEE,AND CUSTOMER. CUSTOMER CREDENTIAL SIGNUPS ARE GIVEN. FOR EMPLOYEE AND ADMIN MODE SEE CREDENTIAL FROM TABLE IN PHPMYADMIN AND LOGIN. ONLY ADMIN CAN ADD EMPLOYEE AS OF NOW.</br>
-6.ADD EMPLOYEE OR ADMIN MANUALLY IN TABLE admin or emploee.</br>
+1.install xampp and run apache and sql.</br>
+2.copy the grocery folder to htdocs in xampp folder</br>
+3.load the grocery.sql table to phpmyadmin using import in phpmyadmin in local server.</br>
+4.first page is signup.</br>
+5.three modes-admin,employeee,and customer. customer credential signups are given. for employee and admin mode see credential from table in phpmyadmin and login. only admin can add employee as of now.</br>
+6.add employee or admin manually in table admin or emploee.</br>
